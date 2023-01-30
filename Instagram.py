@@ -26,6 +26,3 @@ driver.find_element(By.XPATH, "//div/input[1]").send_keys("rathishravi23022000@g
 time.sleep(3)
 driver.find_element(By.XPATH, "//div/button[1]"). click()
 time.sleep(40)
-#driver.find_element(By.XPATH, "").send_keys("")
-#time.sleep(1)
-#driver.find_element(By.XPATH, "")
